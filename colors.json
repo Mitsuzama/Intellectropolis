@@ -1,8 +1,8 @@
 {
-  "titleColor": "#89CFF0",
-  "messageColor": "#81C4E3",
-  "buttonColor": "#03A9F4",
-  "backgroundColor": "#333333",
-  "scoreColor": "#FFFFFF",
-  "scoreBackgroundColor": "#82B4FA"
+  "titleColor": "#8B6E4E",
+  "messageColor": "#C49B6E",
+  "buttonColor": "#F7C38B",
+  "backgroundColor": "#FFFEF8",
+  "black": "#000000",
+  "white": "#FFFFFF"
 }
